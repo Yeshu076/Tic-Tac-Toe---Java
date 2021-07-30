@@ -2,7 +2,7 @@
 A basic Tic Tac Toe Program using Java
 
 ## Prerequisites:
-- IDE Used: NetBeans 11.2.
+- IDE Used: Eclipse
 - Java should be installed on the machine.
 - To build a tic-tac-toe game using java we require basic knowledge of java.
 - Abstract Window Toolkit (AWT) & Swing packages are standard graphical user interfaces used to render graphics. By default, these packages are installed by java.
